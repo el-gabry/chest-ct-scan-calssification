@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/learning/projects/chest-ct-scan-calssification/mlruns/0/c995a877767d4b08a667a7f41c93ab57/artifacts
+end_time: 1728684294174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c995a877767d4b08a667a7f41c93ab57
+run_name: nosy-grub-158
+run_uuid: c995a877767d4b08a667a7f41c93ab57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728684281809
+status: 4
+tags: []
+user_id: muham
